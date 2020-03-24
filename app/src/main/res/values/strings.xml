@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">About Me 2</string>
+    <string name="name">MacBook Pro</string>
+    <string name="my_image">my_image</string>
+    <string name="todo">TODO</string>
+    <string name="information">
+        \n\nThe MacBook Pro (sometimes unofficially abbreviated as MBP[1]) is a
+        line of Macintosh portable computers introduced in January 2006,
+        by Apple Inc. It is the higher-end model of the MacBook family,
+        sitting above the consumer-focused MacBook Air,
+        and is available in 13-inch and 16-inch screen sizes.
+        A 17-inch version was sold from April 2006 to June 2012.
+        \n\nThe first-generation MacBook Pro used the design of the PowerBook G4,
+        but replaced PowerPC G4 chips with Intel Core processors, added a web cam,
+        and introduced the MagSafe power connector. The 15-inch model was introduced in January 2006;
+        the 17-inch model in April. Later revisions added Core 2 Duo processors and LED-backlit displays.
+        \n\nThe second-generation model debuted in October 2008 in 13- and 15-inch variants,
+        with a 17-inch variant added in January 2009. Known as the \"unibody\" model because
+        its case was machined from a single piece of aluminum, it had a thinner flush display,
+        a redesigned trackpad whose entire surface was a single clickable button, and a redesigned keyboard.
+        Updates brought Intel Core i5 and i7 processors and introduced Intel\'s Thunderbolt technology.
+        \n\nThe third-generation MacBook Pro was released in 2012: the 15-inch in June 2012, a 13-inch model in October.
+        It is thinner than its predecessor, makes solid-state storage standard, and includes a high-resolution Retina display.
+        The fourth-generation MacBook Pro was released in October 2016. This generation uses USB-C for all data ports and power.
+        It includes a shallower \"butterfly\"-mechanism keyboard. On all but the base model,
+        the function keys were replaced with a touchscreen strip called the Touch Bar with a Touch ID sensor integrated into the power button.
+        The fifth-generation MacBook Pro was released in November 2019.
+        It has a 16-inch screen with narrower bezels and returns to a scissor-mechanism keyboard.
+        \n\n
+    </string>
+    <string name="enter_the_model_number">Enter The Model Number:</string>
+    <string name="done">Done</string>
+</resources>
